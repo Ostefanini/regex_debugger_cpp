@@ -1,0 +1,4 @@
+Little code to understand better regex in C++. For my personnals needs, nothing much here
+1) Execute
+2) Tap your regex. Please take care of escapings errors !
+3) Test your strings in an infinite loop. Informations are dumped using tabulations.
